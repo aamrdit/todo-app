@@ -1,4 +1,5 @@
-prepare
-shower
-play
-Write
+add a new player
+Update the os
+add a new member
+ add a new member
+buy a camera
