@@ -2,3 +2,5 @@ clean the code
 make a soup
 buy the painting
 new order
+Master Python
+Normal list
